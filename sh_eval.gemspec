@@ -6,6 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Evaluation gem"
   s.authors     = ["David"]
   s.email       = 'MburaD@sutterhealth.org'
-  s.files       = ["lib/sh_eval.rb"]
+  s.files       = ["lib/sh_eval.rb","lib/eval.js"]
+  s.require_paths = ["lib"]
  
 end

@@ -1,5 +1,5 @@
 class ShEval
 	  def self.hi
-	  	  puts "ok work"
+	  	  "ok work"
 	  end
 end
