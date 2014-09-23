@@ -1,3 +1,5 @@
+//vendor/assets/javascripts/eval.js
+//= require eval.js
 
 $.support.cors = true;
 
